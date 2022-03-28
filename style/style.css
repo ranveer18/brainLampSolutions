@@ -8,6 +8,9 @@
   --color: #333;
   --primary: #0195ff;
 }
+html {
+  scroll-behavior: smooth;
+}
 body {
   /* background-color: #eee; */
   width: 100vw;
